@@ -1,0 +1,4 @@
+frontend/.gitignore
+backend/.gitignore
+.DS_Store
+setup_docs.md
